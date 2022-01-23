@@ -48,9 +48,9 @@
   text-align: center;
   height: 100%;
 }
-/* .flex-items > div {
+.flex-items > div {
   padding: 20px;
-} */
+}
 
 /* Flex-columns */
 /* they are together, no breaking space */
@@ -134,4 +134,8 @@
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
+}
+
+.team img {
+  border-radius: 10%;
 }
